@@ -3,8 +3,61 @@
   <component name="ChangeListManager">
     <list default="true" id="b9f88d35-cfa3-49d1-817a-34840d9e5ca3" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml.releaseBackup" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apidocs/ZabbixApplication.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/ZabbixApplication.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apidocs/allclasses-frame.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/allclasses-frame.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apidocs/allclasses-noframe.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/allclasses-noframe.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apidocs/class-use/ZabbixApplication.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/class-use/ZabbixApplication.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apidocs/config/ZabbixAlertaConfig.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/config/ZabbixAlertaConfig.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apidocs/config/class-use/ZabbixAlertaConfig.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/config/class-use/ZabbixAlertaConfig.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apidocs/config/package-frame.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/config/package-frame.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apidocs/config/package-summary.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/config/package-summary.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apidocs/config/package-tree.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/config/package-tree.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apidocs/config/package-use.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/config/package-use.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apidocs/constant-values.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/constant-values.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apidocs/deprecated-list.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/deprecated-list.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apidocs/dominio/ZabbixAlerta.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/dominio/ZabbixAlerta.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apidocs/dominio/ZabbixData.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/dominio/ZabbixData.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apidocs/dominio/ZabbixServer.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/dominio/ZabbixServer.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apidocs/dominio/class-use/ZabbixAlerta.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/dominio/class-use/ZabbixAlerta.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apidocs/dominio/class-use/ZabbixData.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/dominio/class-use/ZabbixData.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apidocs/dominio/class-use/ZabbixServer.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/dominio/class-use/ZabbixServer.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apidocs/dominio/comum/EntidadeZabbix.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/dominio/comum/EntidadeZabbix.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apidocs/dominio/comum/class-use/EntidadeZabbix.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/dominio/comum/class-use/EntidadeZabbix.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apidocs/dominio/comum/package-frame.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/dominio/comum/package-frame.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apidocs/dominio/comum/package-summary.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/dominio/comum/package-summary.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apidocs/dominio/comum/package-tree.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/dominio/comum/package-tree.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apidocs/dominio/comum/package-use.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/dominio/comum/package-use.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apidocs/dominio/package-frame.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/dominio/package-frame.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apidocs/dominio/package-summary.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/dominio/package-summary.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apidocs/dominio/package-tree.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/dominio/package-tree.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apidocs/dominio/package-use.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/dominio/package-use.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apidocs/help-doc.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/help-doc.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apidocs/index-all.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/index-all.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apidocs/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apidocs/overview-frame.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/overview-frame.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apidocs/overview-summary.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/overview-summary.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apidocs/overview-tree.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/overview-tree.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apidocs/package-frame.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/package-frame.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apidocs/package-summary.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/package-summary.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apidocs/package-tree.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/package-tree.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apidocs/package-use.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/package-use.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apidocs/serialized-form.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/serialized-form.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apidocs/servico/ZabbixAlertaServico.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/servico/ZabbixAlertaServico.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apidocs/servico/class-use/ZabbixAlertaServico.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/servico/class-use/ZabbixAlertaServico.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apidocs/servico/package-frame.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/servico/package-frame.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apidocs/servico/package-summary.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/servico/package-summary.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apidocs/servico/package-tree.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/servico/package-tree.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apidocs/servico/package-use.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/servico/package-use.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apidocs/util/ZabbixSenderUtil.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/util/ZabbixSenderUtil.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apidocs/util/class-use/ZabbixSenderUtil.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/util/class-use/ZabbixSenderUtil.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apidocs/util/package-frame.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/util/package-frame.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apidocs/util/package-summary.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/util/package-summary.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apidocs/util/package-tree.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/util/package-tree.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apidocs/util/package-use.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/util/package-use.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-archiver/pom.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/zabbix-0.0.2-javadoc.jar" beforeDir="false" afterPath="$PROJECT_DIR$/target/zabbix-0.0.2-javadoc.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/zabbix-0.0.2-sources.jar" beforeDir="false" afterPath="$PROJECT_DIR$/target/zabbix-0.0.2-sources.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/zabbix-0.0.2.jar" beforeDir="false" afterPath="$PROJECT_DIR$/target/zabbix-0.0.2.jar" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -371,12 +424,12 @@
       <option name="presentableId" value="Default" />
       <updated>1556901318630</updated>
       <workItem from="1556901323274" duration="7991000" />
-      <workItem from="1556996132022" duration="8587000" />
+      <workItem from="1556996132022" duration="9191000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="16578000" />
+    <option name="totallyTimeSpent" value="17182000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
