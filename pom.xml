@@ -2,23 +2,49 @@
 <project xmlns="http://maven.apache.org/POM/4.0.0"
          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+
+    <parent>
+        <groupId>org.sonatype.oss</groupId>
+        <artifactId>oss-parent</artifactId>
+        <version>7</version>
+    </parent>
+    
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>br.com.stelo</groupId>
     <artifactId>zabbix</artifactId>
     <version>0.0.1</version>
-    <build>
-        <plugins>
-            <plugin>
-                <groupId>org.apache.maven.plugins</groupId>
-                <artifactId>maven-compiler-plugin</artifactId>
-                <configuration>
-                    <source>8</source>
-                    <target>8</target>
-                </configuration>
-            </plugin>
-        </plugins>
-    </build>
+    <packaging>jar</packaging>
+    <name>zabbix</name>
+    <description>Configurações do Zabbix</description>
+    <url>https://github.com/lucasrest/zabbix</url>
+
+    <scm>
+        <connection>scm:git:https://github.com/lucasrest/zabbix.git</connection>
+        <developerConnection>scm:git:https://github.com/lucasrest/zabbix.git </developerConnection>
+        <url>https://github.com/lucasrest/zabbix.git</url>
+    </scm>
+
+    <licenses>
+        <license>
+            <name>Mozilla Public License, Version 2.0</name>
+            <url>http://www.mozilla.org/MPL/2.0/index.txt</url>
+        </license>
+    </licenses>
+
+    <developers>
+        <developer>
+            <id>Lucas</id>
+            <name>Lucas</name>
+            <email>lucasrest@hotmail.com</email>
+            <roles>
+                <role>project owner</role>
+                <role>administrator</role>
+                <role>developer</role>
+            </roles>
+            <timezone>-3</timezone>
+        </developer>
+    </developers>
 
     <properties>
         <zabbix-sender.version>0.0.5</zabbix-sender.version>
@@ -38,5 +64,28 @@
             <version>${lombok.version}</version>
             <optional>true</optional>
         </dependency>
+
     </dependencies>
+
+    <build>
+        <plugins>
+            <plugin>
+                <groupId>org.apache.maven.plugins</groupId>
+                <artifactId>maven-release-plugin</artifactId>
+                <version>2.5.3</version>
+                <configuration>
+                    <pushChanges>false</pushChanges>
+                </configuration>
+            </plugin>
+            <plugin>
+                <groupId>org.apache.maven.plugins</groupId>
+                <artifactId>maven-compiler-plugin</artifactId>
+                <configuration>
+                    <source>8</source>
+                    <target>8</target>
+                </configuration>
+            </plugin>
+        </plugins>
+    </build>
+
 </project>
