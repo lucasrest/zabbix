@@ -1,0 +1,8 @@
+zabbix:
+    server:
+      host: http://localhost:10051
+      port: 80
+    data:
+      host: alert-test
+      key: alert-test.01
+      value: success
