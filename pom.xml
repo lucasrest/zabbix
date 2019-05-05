@@ -11,7 +11,7 @@
 
     <groupId>com.github.lucasrest</groupId>
     <artifactId>zabbix</artifactId>
-    <version>0.0.14</version>
+    <version>0.0.15-SNAPSHOT</version>
     <packaging>jar</packaging>
     <name>zabbix</name>
     <description>Configurações do Zabbix</description>
