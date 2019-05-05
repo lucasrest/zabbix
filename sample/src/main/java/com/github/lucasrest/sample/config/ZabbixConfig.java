@@ -33,7 +33,7 @@ public class ZabbixConfig {
 
     @Bean
     public ZabbixAlerta zabbixAlerta(ZabbixServer server, ZabbixData data) {
-        return new ZabbixAlerta(server, data, 5000L);
+        return new ZabbixAlerta(server, data);
     }
 
     @Bean

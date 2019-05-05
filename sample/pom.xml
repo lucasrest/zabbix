@@ -23,7 +23,7 @@
         <dependency>
             <groupId>com.github.lucasrest</groupId>
             <artifactId>zabbix</artifactId>
-            <version>0.0.14</version>
+            <version>0.0.15</version>
         </dependency>
         <dependency>
             <groupId>org.springframework.boot</groupId>
