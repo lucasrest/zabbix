@@ -8,9 +8,10 @@ import org.springframework.beans.factory.annotation.Value;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
 
-@Configuration
+//@Configuration
 public class ZabbixConfig {
 
+/*
     @Value("${zabbix.server.host}")
     private String serverHost;
 
@@ -20,29 +21,29 @@ public class ZabbixConfig {
     @Value("${zabbix.data.host}")
     private String dataHost;
 
-    @Value("${zabbix.data.key}")
+    */
+/*@Value("${zabbix.data.key}")
     private String dataKey;
 
     @Value("${zabbix.data.value}")
-    private String dataValue;
+    private String dataValue;*//*
+
 
     @Bean
-    public ZabbixAlertaConfig zabbixAlertaConfig(ZabbixAlerta alerta) {
-        return new ZabbixAlertaConfig(alerta);
+    public ZabbixAlerta zabbixAlerta(*/
+/*ZabbixServer server, ZabbixData data*//*
+) {
+        return new ZabbixAlerta(null, null);
     }
+*/
 
-    @Bean
-    public ZabbixAlerta zabbixAlerta(ZabbixServer server, ZabbixData data) {
-        return new ZabbixAlerta(server, data);
-    }
-
-    @Bean
-    public ZabbixData zabbixData() {
+    /*@Bean
+    public ZabbixData data() {
         return new ZabbixData(dataHost, dataKey, dataValue);
     }
 
     @Bean
-    public ZabbixServer zabbixServer() {
+    public ZabbixServer server() {
         return new ZabbixServer(serverHost, serverPort);
-    }
+    }*/
 }
